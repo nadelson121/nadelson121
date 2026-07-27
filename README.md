@@ -93,15 +93,16 @@ Exploring predictive modeling techniques for cryptocurrency forecasting using hi
 
 ## 📊 GitHub Stats
 
-![Nicole's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Nicole's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadelson121&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nadelson121&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🤝 Let's Connect!
 
 📫 LinkedIn: https://www.linkedin.com/in/nicole-adelson/
+
 💻 GitHub: https://github.com/nadelson121
 
 ---
