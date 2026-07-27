@@ -13,12 +13,11 @@ Currently, I work on applying machine learning techniques to biomedical and scie
 ## 🚀 About Me
 
 - 🎓 Senior studying **Computer Engineering** with a concentration in **Artificial Intelligence**
-- 📚 Minors in **Mathematics and Physics**
+- 📚 Minors in **Mathematics**
 - 🔬 Research Assistant at the **Feinstein Institutes for Medical Research**
 - 🧠 AI Modeling Intern at **Brookhaven National Laboratory**
 - 💻 Former Test Engineer Intern at **North Atlantic Industries**
 - 👩‍💻 President of **Society of Women Engineers**
-- 🩵 Chapter Leader of **The Diabetes Link – Hofstra Diabuddies**
 
 ---
 
@@ -39,8 +38,6 @@ Currently, I work on applying machine learning techniques to biomedical and scie
 - OpenCV
 - Pandas
 - NumPy
-- Hail
-- PheTK
 - Computer Vision
 - Deep Learning
 - Neural Networks
@@ -51,8 +48,6 @@ Currently, I work on applying machine learning techniques to biomedical and scie
 - Git & GitHub
 - Linux
 - Jupyter Notebook
-- React
-- Node.js
 - HTML/CSS
 
 ---
