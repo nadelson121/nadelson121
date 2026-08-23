@@ -97,6 +97,8 @@ Exploring predictive modeling techniques for cryptocurrency forecasting using hi
 
 💻 GitHub: https://github.com/nadelson121
 
+📩 Email: nadelson224@gmail.com
+
 ---
 
 ⭐ Thanks for visiting my profile!
