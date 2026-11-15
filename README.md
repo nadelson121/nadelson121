@@ -59,6 +59,12 @@ Currently, I work on applying machine learning techniques to biomedical and scie
 
 ---
 
+## 🎓 Certifications
+
+- [**Machine Learning Foundations**](https://mycredentials.ecornell.cornell.edu/credential/wSJELntjra) — Cornell University (eCornell)
+
+---
+
 ## 🧠 Featured Projects
 
 ### 🌊 Florida Red Tide Forecasting | Break Through Tech
