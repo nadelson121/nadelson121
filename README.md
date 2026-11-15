@@ -69,16 +69,16 @@ The project combines historical bloom measurements with environmental data to fo
 
 **Project Highlights:**
 - Integrated and analyzed **7 datasets**, combining biological and environmental measurements into a unified dataset of **853 weekly observations and 62 features**.
-- Developed and evaluated machine learning models to forecast bloom conditions **1, 2, and 4 weeks ahead**.
-- Compared multiple algorithms, including **XGBoost, Support Vector Machines, Logistic Regression, Random Forest, and hybrid models**.
-- Implemented persistence and seasonal climatology baselines for model benchmarking.
-- Applied forward-chaining time-series validation across successive bloom years.
+- Developed and evaluated **XGBoost and Support Vector Machine (SVM)** models to forecast bloom conditions **1, 2, and 4 weeks ahead**.
+- Established baseline forecasting approaches using **Persistence** and **Seasonal Climatology** to benchmark predictive performance.
+- Applied forward-chaining time-series validation across successive bloom years to evaluate model generalization.
 - Conducted feature importance analysis to identify influential biological and environmental predictors.
 
 **Selected Results:**
-- Achieved a one-week macro-F1 score of **0.6188** using feature-selected XGBoost.
-- Improved one-week macro-F1 from **0.5591 to 0.6188** through feature selection.
-- Identified historical *K. brevis* measurements as important short-term predictors, while environmental variables became more prominent at longer forecasting horizons.
+- XGBoost achieved a one-week macro-F1 score of **0.6188** following feature selection.
+- Feature selection improved XGBoost's one-week macro-F1 from **0.5591 to 0.6188**.
+- SVM achieved a one-week macro-F1 score of **0.5430** using the default RBF kernel.
+- Persistence achieved **81.2% one-week accuracy**, **77.2% two-week accuracy**, and **69.4% four-week accuracy**.
 
 **Tech:** Python, XGBoost, Scikit-learn, Support Vector Machines, Machine Learning, Time-Series Forecasting, Feature Engineering, Data Analysis
 
